@@ -18,7 +18,10 @@ _The Google Fiber customer service team’s goal is to determine how often custo
 
 
 After drawing the Low Fidelity Dashboards (many times!), I felt ready to jump into Tableau to finish this Project.
+
 This is the final result:
+
+> click the image to go to Tableau Public and play with the dashboard
 
 
 [![Google Fiber Dashboard](https://raw.githubusercontent.com/gucou1/Google-Fiber-Case-Study/main/Files/Dashboard%20-%20Main%20Page.png)](https://public.tableau.com/views/Google-BI-Certificate-Capstone-Project-Google-Fiber/Dashboard2?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
